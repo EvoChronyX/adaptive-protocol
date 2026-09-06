@@ -169,7 +169,3 @@ src/
 ## Protocol specification
 
 See [PROTOCOL.md](PROTOCOL.md) for the full protocol spec and [STATE_MACHINE.md](STATE_MACHINE.md) for the formal state machines (connection, stream, retransmission, multipath path) and their invariants.
-
-## License
-
-Not specified. This is a research prototype.
