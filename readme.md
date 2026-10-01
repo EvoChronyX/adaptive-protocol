@@ -1,4 +1,4 @@
-# Adaptive transport prototype
+# Adaptive Reliability and Congestion-Aware Multipath Transport over Heterogeneous UDP Paths
 
 A research prototype of an adaptive transport protocol built on UDP. Written in Rust with no external dependencies (`#![forbid(unsafe_code)]`, pure `std`).
 
